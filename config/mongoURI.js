@@ -1,0 +1,1 @@
+module.exports = "mongodb+srv://bhushan:N9h2xEW79jYiS8f@cluster0.vg7lt.mongodb.net/gym?retryWrites=true&w=majority";
